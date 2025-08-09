@@ -12,3 +12,7 @@ Developed a dynamic **Power BI dashboard** providing a **360° view** of courier
 
 ### 🛠 Tech Stack  
 **Power BI** | **DAX** | **Data Modeling** | **Data Visualization**
+
+### Screenshots:
+   
+![Dashboard Preview](https://github.com/ashishsinghvns2505/Courier-Cargo-Operations-Monitoring/blob/main/Dashboard%20Screenshot%20.png)
